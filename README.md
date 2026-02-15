@@ -7,8 +7,8 @@ The system allows users to:
 - Create, edit, and delete clients
 - Create, edit, and delete contacts
 - Link contacts to clients
+- Link client to contact
 - Automatically generate unique client codes
-- View dashboard statistics
 
 ---
 
