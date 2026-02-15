@@ -63,3 +63,6 @@ Entities:
 1. Clone the repository
 2. Update the database connection string in `appsettings.json`
 3. Run:
+
+## Author
+Oscar Ramaposa
