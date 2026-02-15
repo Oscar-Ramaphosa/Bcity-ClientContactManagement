@@ -34,8 +34,8 @@ Clients and Contacts are linked using a junction entity (ClientContact).
 
 ### Dashboard
 Displays:
-- Recent clients with number of linked contacts
-- Recent contacts with number of linked clients
+- Button to manage Clients
+- Button to manage Contacts
 
 ---
 
